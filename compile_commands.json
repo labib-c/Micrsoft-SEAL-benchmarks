@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/azureuser/he-tests",
+  "command": "/usr/bin/c++  -isystem /home/azureuser/SEAL/native/src -isystem /home/azureuser/SEAL/build/native/src -isystem /home/azureuser/SEAL/build/thirdparty/msgsl-src/include -Wall -Wextra -fstack-protector-strong -fPIE -pthread -std=gnu++17 -o CMakeFiles/sealproject.dir/src/main.cpp.o -c /home/azureuser/he-tests/src/main.cpp",
+  "file": "/home/azureuser/he-tests/src/main.cpp"
+}
+]
